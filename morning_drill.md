@@ -1,0 +1,14 @@
+| Order | Drill                                  | Time            | Key Focus (Skill Transfer / Longevity)         | Evidence / Coach Lineage                                                         |
+| ----- | -------------------------------------- | --------------- | ---------------------------------------------- | -------------------------------------------------------------------------------- |
+| 1     | **Cat–Cow (slow spinal wave)**         | 30–45s          | Spinal segmentation, neural wake-up            | Dynamic spinal motion ↑ synovial fluid & readiness (Spine biomechanics research) |
+| 2     | **Neck CARs (controlled circles)**     | 30–45s          | Cervical control for clinch & posture          | CARs concept: active end-range control (Kinstretch / Galpin-aligned principles)  |
+| 3     | **Shoulder CARs**                      | ~1 min          | Shoulder integrity for punches, clinch         | Active mobility > passive stretching for joint health                            |
+| 4     | **World’s Greatest Stretch (dynamic)** | ~1 min          | Hip + T-spine rotation (kicks, elbows)         | Dynamic mobility improves movement prep vs static                                |
+| 5     | **Hip CARs**                           | ~1 min          | Hip internal/external rotation (kicking power) | End-range strength builds usable ROM (Galpin, modern sports science)             |
+| 6     | **90/90 Hip Switches**                 | ~2 min          | Transverse-plane hip control                   | Improves rotational capacity & joint resilience                                  |
+| 7     | **Quadruped Thoracic Rotations**       | ~1 min          | Upper-body rotation without lumbar stress      | T-spine mobility linked to strike efficiency                                     |
+| 8     | **Down Dog → Cobra Flow**              | ~1 min          | Shoulder flexion + spinal extension            | Active mobility > static for morning prep                                        |
+| 9     | **Wall Slides / Band Pull-Apart**      | ~1 min          | Scapular mechanics, shoulder longevity         | Scapular control reduces shoulder injury risk                                    |
+| 10    | **Ankle CARs**                         | ~2 min (1/side) | Pivoting, balance, stance stability            | Ankle dorsiflexion tied to lower-body health                                     |
+| 11    | **Hamstring Stretch (controlled)**     | ~2 min          | Kicking height & posterior chain               | Static stretch effective *after* movement                                        |
+| 12    | **Hip Flexor Lunge Stretch**           | ~2 min          | Pelvic position, knee & back health            | PNF-style holds ↑ ROM with less power loss                                       |
